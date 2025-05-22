@@ -1,6 +1,9 @@
+
 # SQL DATA Version Checker
 
 ## English Description
+
+[![Download Setup](https://img.shields.io/badge/⬇️%20Download%20Setup-SQLVersionChecker_Setup.exe-blue?style=for-the-badge&logo=windows)](https://github.com/AYNIADAM/sqlversionchecker/releases/latest)
 
 Modern, multi-language desktop app for batch SQL Server MDF, BAK, and BCK file version detection and health check.
 
@@ -39,6 +42,8 @@ This application is designed for IT professionals and database administrators wh
 
 ## Türkçe Açıklama
 
+[![Kurulum Dosyasını İndir](https://img.shields.io/badge/⬇️%20Kurulum%20Dosyasını%20İndir-SQLVersionChecker_Setup.exe-blue?style=for-the-badge&logo=windows)](https://github.com/AYNIADAM/sqlversionchecker/releases/latest)
+
 SQL Server MDF, BAK ve BCK dosyalarının sürümünü ve bütünlüğünü toplu ve hızlı şekilde tespit eden, modern ve çok dilli (Türkçe/İngilizce) bir masaüstü uygulamasıdır.
 
 Bu uygulama, çok sayıda SQL Server veri ve yedek dosyasının sürümünü ve sağlığını hızlıca tespit etmek isteyen IT uzmanları ve veritabanı yöneticileri için geliştirilmiştir. Sadece klasör ve alt klasörlerdeki ilgili dosyaları bulmakla kalmaz, her bir dosyayı test eder, SQL Server sürümünü belirler ve dosyanın sağlıklı mı yoksa bozuk mu olduğunu ayırt eder. Sonuçlar filtrelenebilir ve toplu işlemlerle dosya yönetimi kolaylaştırılır.
@@ -75,6 +80,6 @@ Bu uygulama, çok sayıda SQL Server veri ve yedek dosyasının sürümünü ve 
 ---
 
 ## Author / Yazar
-- **Author** AYNIADAM
-- **E-mail:** a.ceyhan@goldverikurtarma.com
-- **Web:** [www.goldverikurtarma.com](https://www.goldverikurtarma.com) 
+- **Author** AYNIADAM  
+- **E-mail:** a.ceyhan@goldverikurtarma.com  
+- **Web:** [www.goldverikurtarma.com](https://www.goldverikurtarma.com)
